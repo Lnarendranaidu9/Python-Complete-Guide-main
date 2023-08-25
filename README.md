@@ -2,7 +2,7 @@
 python3 --version
 pip3 --version
 
-# Install Python in windows
+# Install Python in Windows
 https://docs.python-guide.org/starting/install3/win/
 
 # Install Python in Linux
@@ -12,7 +12,7 @@ https://docs.python-guide.org/starting/install3/linux/
 https://docs.python-guide.org/starting/install3/osx/
 
 
-# If facing any diffculties then simply use Online IDE
+# If facing any difficulties then simply use Online IDE
 
 # Download PyCharm
 
